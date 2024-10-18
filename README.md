@@ -10,7 +10,7 @@
 
 - **Lua**: El lenguaje principal que utilizo para la programación en FiveM.
 - **C#**: Para proyectos más avanzados y recursos.
-- **ESX** y **vRP**: Frameworks que uso para el desarrollo de servidores.
+- **ESX**: Frameworks que uso para el desarrollo de servidores.
 
 ## 📫 Conéctame
 
