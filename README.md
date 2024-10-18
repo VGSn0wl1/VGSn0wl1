@@ -4,7 +4,7 @@
 
 ## 🌟 Proyectos Destacados
 
-- **[UI-Negocios]([enlace_del_repositorio_1](https://github.com/VGSn0wl1/UI-Negocios))**: 
+- **[UI-Negocios](https://github.com/VGSn0wl1/UI-Negocios)**:
 
 ## 📚 Recursos y Herramientas
 
